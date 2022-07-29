@@ -1,0 +1,23 @@
+    /* seção about us */
+    .about-us {
+        padding: 7rem 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+    .about-us span{
+        color: var(--main-color);
+    }
+    
+    .about-us h1{
+        font-size: 2rem;
+    }
+    
+    .about-us p{
+        color: var(--text-color);
+        width: 50%;
+        text-align: center;
+        line-height: 1.5rem;
+    }
+    /* end about us */

@@ -1,0 +1,28 @@
+/* métricas */
+.metricas-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container{
+    width: 200px;
+    margin: 20px;
+}
+
+.metricas-container span{
+    color: #8E2424;
+    font-size: 3rem;
+    line-height: 5rem;
+}
+
+.metricas-container h1{
+    font-size: 1rem;
+	padding-bottom: 1.0rem;
+}
+
+.metricas-container p{
+    height: 25%;
+}
+
+/* end métricas */
